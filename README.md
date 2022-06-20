@@ -2,11 +2,17 @@
 
 # Algorithm
 Import libraries required.
+
 Load dataset through local or drive link.
+
 Train the datasets.
+
 Train the model with neural networks.
+
 Compile the code.
+
 Fit the model and check accuracy.
+
 Evaluate performance on test dataset.
 
 ## Program:
